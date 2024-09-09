@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Pokedex",
+    "description": "Oprette en nettside for pokemon bibloket ved å bruke react.js og bruke fetch funksjon for å hente ut data. Jeg skulle jobbe med back-end og sette noen data til sanity server og henter det ut, men kunne ikke pga tidspress og lite kunnskap",
+    "url": "https://github.com/HekmatAbduweli/Pokedex_oppgave_HekmatAbduweli"
+  },
+  {
+    "title": "Boock searching",
+    "description": "Oprette en biblotek nettside. Ved å bruke api og GET kunnskap skal jeg sette James bond bøkene på forsiden. I tilleg skal man lage en søke motor for å søke andre bøkene. Dette er arbeidskrav fra Utvikling i Interaktiv nettsteder",
+    "url": "https://github.com/HekmatAbduweli/BockSearching"
+  },
+  {
+    "title": "Nettside for sko",
+    "description": "Oprette en nettsted for sko butikk ved å bruke HTML og SASS. Dette oppgave er fra webutvikling faget fra 2023",
+    "url": "https://github.com/HekmatAbduweli/oblig_3"
+  },
+  {
+    "title": "portfilo_demo",
+    "description": "dette er demo portfilo",
+    "url": "https://github.com/HekmatAbduweli/portfilo_demo"
+  },
+  {
+    "title": "webøvelse",
+    "description": "dette er demo data",
+    "url": "https://github.com/HekmatAbduweli/forste_ovelse_web"
+  },
+  {
+    "title": "legodudes_snity",
+    "description": "skulle jobbe med sanity men til slutt koden min kræsja og glemte å pushe ut",
+    "url": "https://github.com/HekmatAbduweli/legodudes_sanity"
+  }
+]

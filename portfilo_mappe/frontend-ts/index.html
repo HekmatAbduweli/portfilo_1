@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="src/style.css">
+  <title>Vite + TS</title>
+</head>
+
+<body>
+<main>
+  <h1>Repository Library</h1>
+  <p>Legg ditt nytt repository</p>
+
+  <section class="form-container">
+    
+    <form>
+      <label for="repo-name">Repository name</label>
+      <input type="text" id="repoName" name="repoName" required>
+
+      <label for="repo-url">Url</label>
+      <input type="text" id="repoUrl" name="repoUrl" required>
+
+      <label for="repo-description">Description</label>
+      <textarea id="repoDescription" name="repoDescription" rows="4"></textarea>
+
+      <button type="submit">Publish</button>
+    </form>
+  </section>
+
+  <section class="repository-list" id="jsonData">
+    <article class="repository-item">
+      <h2>title</h2>
+      <a href="#">Link</a>
+      <p>Description description description description description description description description description
+        description  
+        description</p>
+    </article>
+  </section>
+</main>
+
+  <div id="json"></div>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+
+</html>
